@@ -6,15 +6,15 @@ I am a C# developer from Sweden, with a passion for IOT and smart homes in gener
 
 # My Home Assistant Configuration
 
-[![maintained](https://img.shields.io/maintenance/yes/2019.svg?style=popout)](#)  ![](https://img.shields.io/github/last-commit/isabellaalstrom/HomeAssistantConfiguration.svg?style=popout)
+[![maintained](https://img.shields.io/maintenance/yes/2019.svg?style=popout)](#)  ![](https://img.shields.io/github/last-commit/isabellaalstrom/home-assistant-config.svg?style=popout)
 
-![](https://img.shields.io/github/issues-raw/isabellaalstrom/HomeAssistantConfiguration.svg?label=Open%20todos&style=popout)  ![](https://img.shields.io/github/issues-closed-raw/isabellaalstrom/HomeAssistantConfiguration.svg?colorB=green&label=Closed%20todos&style=popout)  ![](https://img.shields.io/github/issues/isabellaalstrom/HomeAssistantConfiguration/bug.svg?colorB=red&label=Bugs&style=popout)
+![](https://img.shields.io/github/issues-raw/isabellaalstrom/home-assistant-config.svg?label=Open%20todos&style=popout)  ![](https://img.shields.io/github/issues-closed-raw/isabellaalstrom/home-assistant-config.svg?colorB=green&label=Closed%20todos&style=popout)  ![](https://img.shields.io/github/issues/isabellaalstrom/home-assistant-config/bug.svg?colorB=red&label=Bugs&style=popout)
 
 ![](https://img.shields.io/discord/330944238910963714.svg?label=Hass%20Discord&style=popout)  [![](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow%20me%20on%20Twitter&style=social?style=popout)](https://twitter.com/teachingbirds)
 
 I'm updating on a regular basis, but some things may not be up to date.
 
-I'm using the [issues](https://github.com/isabellaalstrom/HomeAssistantConfiguration/issues) and [project](https://github.com/isabellaalstrom/HomeAssistantConfiguration/projects/1) to keep track of bugs in my configuration and new features I want to make/use.
+I'm using the [issues](https://github.com/isabellaalstrom/home-assistant-config/issues) and [project](https://github.com/isabellaalstrom/home-assistant-config/projects/1) to keep track of bugs in my configuration and new features I want to make/use.
 
 # Get in contact:
 [Twitter](https://twitter.com/teachingbirds)

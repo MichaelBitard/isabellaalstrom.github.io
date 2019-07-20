@@ -21,7 +21,7 @@ nav:
   - Linux Commands: linux-commands.md
   - Featured: featured.md
 
-repo_url: https://github.com/isabellaalstrom/HomeAssistantConfiguration
+repo_url: https://github.com/isabellaalstrom/home-assistant-config
 repo_name: My Home Assistant Config
 site_url: 'https://isabellaalstrom.github.io/'
 edit_uri: null
